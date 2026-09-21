@@ -1,0 +1,27 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.sublime-*
+
+# Logs
+*.log
+npm-debug.log*
+
+# Temporary files
+*.tmp
+*.temp
+~*
+
+# Environment variables (if you add backend later)
+.env
+.env.local
+.env.production
+
+# Build folders (if you add build process later)
+dist/
+build/
